@@ -30,7 +30,7 @@ export async function generateMetadata(): Promise<Metadata> {
     title: metadata.title,
     description: metadata.description,
     keywords: metadata.keywords,
-    metadataBase: new URL("https://seudominio.com"),
+    metadataBase: new URL("https://tailwind-store-three.vercel.app/pt"),
     icons: {
       icon: metadata.favicon,
       shortcut: metadata.favicon,

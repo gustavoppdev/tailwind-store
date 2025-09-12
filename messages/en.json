@@ -436,7 +436,7 @@
       "title": "Tailwind Store",
       "description": "Tailwind Store is a productivity e-commerce with a complete shopping flow, advanced filters, and multi-language & multi-currency support.",
       "type": "website",
-      "url": "link-do-deploy",
+      "url": "https://tailwind-store-three.vercel.app/en",
       "image": "/screenshots/og-image.png",
       "locale": "en",
       "site_name": "Tailwind Store"
