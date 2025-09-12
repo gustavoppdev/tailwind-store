@@ -1,0 +1,445 @@
+{
+  "Layout": {
+    "Topbar": {
+      "freeShipping": "Get free delivery on orders over {value}",
+      "createAccount": "Create an account",
+      "signIn": "Sign in"
+    },
+    "Navbar": {
+      "navigationLinks": {
+        "home": "Home",
+        "collection": "Collection",
+        "orders": "Orders",
+        "stores": "Stores"
+      },
+      "filters": {
+        "searchPlaceholder": "Search products..."
+      },
+      "menuMobileLinks": {
+        "home": "Home",
+        "collections": "Collections",
+        "orders": "Orders",
+        "about": "About us",
+        "signIn": "Sign in",
+        "createAccount": "Create an account",
+        "logout": "Log Out"
+      }
+    },
+    "Footer": {
+      "navigationLinks": [
+        {
+          "title": "Products",
+          "items": ["Bags", "T-Shirts", "Objects", "Home Goods", "Accessories"]
+        },
+        {
+          "title": "Company",
+          "items": [
+            "About Us",
+            "Sustainability",
+            "Press",
+            "Careers",
+            "Terms and Conditions",
+            "Privacy"
+          ]
+        },
+        {
+          "title": "Customer Service",
+          "items": [
+            "Contact Us",
+            "Shipping",
+            "Returns",
+            "Warranty",
+            "Secure Payments",
+            "FAQ",
+            "Find a Store"
+          ]
+        },
+        {
+          "title": "Legal",
+          "items": [
+            "Terms of Service",
+            "Return Policy",
+            "Privacy Policy",
+            "Shipping Policy"
+          ]
+        }
+      ],
+      "newsletter": {
+        "title": "Sign up for our newsletter",
+        "description": "The latest news, articles, and resources, sent to your inbox weekly.",
+        "emailPlaceholder": "Enter your email",
+        "submitBtn": "Subscribe",
+        "toastSuccessTitle": "Thank you for subscribing to our newsletter!",
+        "toastSuccessDescription": "A confirmation has been sent to {email}.",
+        "errors": {
+          "required": "Email is required",
+          "invalid": "Please enter a valid email"
+        }
+      },
+      "getEarlyAccess": {
+        "title": "Get early access",
+        "description": "Did you sign up to the newsletter? If so, use the keyword we sent you to get access.",
+        "goNowBtn": "Go Now"
+      },
+      "accessibility": "Accessibility",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "rights": "© 2025 All rights reserved"
+    }
+  },
+  "Auth": {
+    "SignIn": {
+      "title": "Sign in to your account",
+      "noAccount": "Don't you have an account?",
+      "signUp": "Sign up",
+      "email": "Email address",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign in",
+      "orContinueWith": "Or continue with"
+    },
+    "SignUp": {
+      "title": "Sign up for your account",
+      "alreadyAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "username": "Username",
+      "email": "Email address",
+      "password": "Password",
+      "orContinueWith": "Or continue with",
+      "signUpButton": "Sign up"
+    },
+    "Validation": {
+      "minLengthPassword": "Password must be at least 6 characters long.",
+      "passwordRequired": "Password is required.",
+      "emailRequired": "Email is required.",
+      "emailInvalid": "Please enter a valid email address.",
+      "usernameRequired": "Username is required.",
+      "usernameMinLength": "Username must be at least 3 characters long.",
+      "usernameMaxLength": "Username must be at most 20 characters long."
+    }
+  },
+
+  "Pages": {
+    "Home": {
+      "Hero": {
+        "title": "Focus on what matters",
+        "paragraph": "All the charts, datepickers, and notifications in the world can't beat checking off some items on a paper card.",
+        "shopBtn": "Shop Productivity",
+        "altImage": "Minimalist top-down view of an organized workspace with electronics, leather and felt stationery, and a person's hands holding a list.",
+        "benefits": {
+          "0": {
+            "title": "Download the app",
+            "description": "Get an exclusive $5 off code"
+          },
+          "1": {
+            "title": "Return when you're ready",
+            "description": "60 days of free returns"
+          },
+          "2": {
+            "title": "Sign up for our newsletter",
+            "description": "15% off your first order"
+          }
+        }
+      },
+      "TrendingProducts": {
+        "title": "Trending Products",
+        "viewAllBtn": "See everything"
+      },
+      "Collections": {
+        "title": "Collections",
+        "categories": {
+          "0": {
+            "title": "Desk and Office",
+            "description": "Work from home accessories",
+            "alt": "Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."
+          },
+          "1": {
+            "title": "Self-Improvement",
+            "description": "Journals and note-taking",
+            "alt": "Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant."
+          },
+          "2": {
+            "title": "Travel",
+            "description": "Daily commute essentials",
+            "alt": "Collection of four insulated travel bottles on wooden shelf."
+          }
+        }
+      },
+      "Discount": {
+        "title": "Get 25% off during our one-time sale",
+        "description": "Most of our products are limited releases that won't come back. Get your favorite items while they're in stock.",
+        "imageAlt": "Person using laptop on white table with notebook and glasses.",
+        "shopNowBtn": "Get access to our one-time sale"
+      },
+      "Testimonials": {
+        "title": "What are people saying?",
+        "0": {
+          "name": "Sarah Peters",
+          "locale": "New Orleans, LA",
+          "text": "My order arrived super quickly. The product is even better than I hoped it would be. Very happy customer over here!"
+        },
+        "1": {
+          "name": "Kelly McPherson",
+          "locale": "Chicago, IL",
+          "text": "I had to return a purchase that didn’t fit. The whole process was so simple that I ended up ordering two new items!"
+        },
+        "2": {
+          "name": "Chris Paul",
+          "locale": "Phoenix, AZ",
+          "text": "Now that I’m on holiday for the summer, I’ll probably order a few more shirts. It’s just so convenient, and I know the quality will always be there."
+        }
+      }
+    },
+    "ProductPage": {
+      "productDetails": {
+        "colors": "Colors",
+        "sizes": "Sizes",
+        "addToCartBtn": "Add to cart",
+        "seeAllReviews": "See all {count} reviews",
+        "description": "Description",
+        "details": "Details",
+        "addedToCart": "{product} has been added to cart !",
+
+        "incentives": {
+          "garantee": {
+            "title": "10-year warranty",
+            "description": "If it breaks in the first 10 years we'll replace it. After that you're on your own though."
+          },
+          "exchanges": {
+            "title": "Exchanges",
+            "description": "If you don't like it, trade it to one of your friends for something of theirs. Don't send it here though."
+          }
+        },
+
+        "inStock": "in stock and ready to ship",
+        "whatSizeBuy": "What size should i buy?"
+      },
+      "testimonials": {
+        "title": "Recent Reviews",
+        "reviews": [
+          {
+            "name": "Mariana S.",
+            "date": "May 3, 2025",
+            "rate": 5,
+            "title": "Excellent product!",
+            "description1": "The shopping experience was great. The product arrived well-packaged and in perfect condition.",
+            "description2": "I am very satisfied with the quality and would recommend it to everyone."
+          },
+          {
+            "name": "Felipe R.",
+            "date": "May 2, 2025",
+            "rate": 5,
+            "title": "Great quality",
+            "description1": "The product exceeded my expectations. Excellent design and functionality.",
+            "description2": "Fast delivery and efficient service. I will definitely buy again."
+          },
+          {
+            "name": "Beatriz C.",
+            "date": "April 30, 2025",
+            "rate": 4,
+            "title": "Very satisfied",
+            "description1": "The product is high quality and delivers as promised.",
+            "description2": "Worth the value. I recommend it without hesitation."
+          }
+        ]
+      },
+      "moreProducts": {
+        "title": "Products you might like"
+      }
+    },
+    "Cart": {
+      "title": "Shopping Cart",
+      "description": "Explore our <link>products</link> and find the inspiration you're looking for.",
+
+      "cartSummary": {
+        "title": "Order Summary",
+        "subtotal": "Subtotal",
+        "standardDeliveryFee": "Standard Delivery Fee",
+        "taxes": "Taxes",
+        "total": "Total",
+        "freeShipping": "Free Shipping",
+        "continueToPaymentButton": "Continue to Payment",
+        "continueToLoginButton": "Log In to Your Account"
+      },
+      "cartEmpty": {
+        "title": "Your cart is empty.",
+        "description": "It looks like you haven't added any items yet.",
+        "goShoppingBtn": "Go Shopping"
+      }
+    },
+    "Checkout": {
+      "shippingInformation": {
+        "title": "Shipping Information",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "address": "Address",
+        "addressComplement": "Apartment, suite, etc. (Optional)",
+        "city": "City",
+        "state": "State/Province",
+        "selectYourState": "Select your state",
+        "stateNoResults": "No state found",
+        "postalCode": "Postal Code",
+        "country": "Country",
+        "phone": "Phone Number",
+        "countries": {
+          "brazil": "Brazil",
+          "usa": "United States",
+          "canada": "Canada"
+        },
+        "autofill": "Autofill"
+      },
+      "deliveryMethod": {
+        "title": "Delivery Method",
+        "freeShipping": "Free Shipping",
+        "standard": {
+          "title": "Standard",
+          "description": "4-10 business days"
+        },
+        "express": {
+          "title": "Express",
+          "description": "2-5 business days"
+        }
+      },
+      "payment": {
+        "title": "Payment",
+        "creditCard": {
+          "title": "Credit Card",
+          "cardNumber": "Card Number",
+          "nameOnCard": "Name on Card",
+          "expirationDate": "Expiration Date (MM/YY)",
+          "cvc": "CVC"
+        }
+      },
+      "orderSummary": {
+        "title": "Order Summary",
+        "subtotal": "Subtotal",
+        "shipping": "Shipping",
+        "freeShipping": "Free Shipping",
+        "taxes": "Taxes",
+        "total": "Total",
+        "confirmOrderButton": "Confirm Order",
+        "removeItem": "Remove {itemName} from cart.",
+        "selectQuantity": "Select quantity"
+      },
+      "errors": {
+        "firstname": { "required": "First name is required." },
+        "lastname": { "required": "Last name is required." },
+        "address": { "required": "Address is required." },
+        "city": { "required": "City is required." },
+        "country": { "required": "Country is required." },
+        "state": { "required": "State is required." },
+        "postalCode": {
+          "invalid": "Postal code must be in the format 00000-000."
+        },
+        "phone": { "invalid": "Invalid phone number." },
+        "shippingMethod": { "required": "Please select a shipping method." },
+        "paymentMethod": { "required": "Please select a payment method." },
+        "creditCard": {
+          "cardNumber": "Card number must be 16 digits.",
+          "nameOnCard": "Name on card is required.",
+          "expirationDate": "Expiration date must be in MM/YY format.",
+          "cvc": "Security code (CVC) must be 3 digits."
+        }
+      }
+    },
+    "Collection": {
+      "title": "Explore Our Products",
+      "description": "Explore a collection that defines effortless style and exceptional quality.",
+      "filters": {
+        "title": "Filters",
+        "colors": "Colors",
+        "categories": "Categories"
+      },
+      "noResultsFound": {
+        "title": "Oops! No Products Found.",
+        "description": "It seems your search or filters didn't return any results. Try adjusting your options or clearing all filters.",
+        "clearFiltersButton": "Clear Filters"
+      }
+    },
+    "OrderHistory": {
+      "title": "Order History",
+      "description": "Check the status of your recent orders, manage returns, and download invoices.",
+      "date": "Order Date",
+      "orderNumber": "Order Number",
+      "total": "Total",
+      "viewInvoice": "View Invoice",
+      "product": "Product",
+      "price": "Price",
+      "status": "Status",
+      "actions": "Actions",
+      "statusPreparing": "Preparing for Shipping",
+      "viewProduct": "View Product Details",
+      "loadingOrders": "Loading order history...",
+      "noOrdersTitle": "No Orders Found",
+      "noOrdersDescription": "It looks like you haven't placed any orders yet. How about exploring our store?",
+      "continueShopping": "Continue Shopping",
+      "quantity": "Quantity: {qty}"
+    },
+    "Thanks": {
+      "paymentSuccessful": "Payment Successful!",
+      "title": "Thanks for Your Order!",
+      "description": "We appreciate your order and are currently processing it. We'll send you a confirmation to your email very soon!",
+      "trackingNumber": "Tracking Number",
+      "quantity": "Quantity: {qty}",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "taxes": "Taxes",
+      "total": "Total",
+      "shippingAddress": "Shipping Address",
+      "paymentInformation": "Payment Information",
+      "endingWith": "Ending with {last4}",
+      "expires": "Expires {date}",
+      "continueShopping": "Continue Shopping",
+      "imageAlt": "Photo of a woman happy with her purchase, holding several shopping bags.",
+      "countries": {
+        "brazil": "Brazil",
+        "usa": "United States",
+        "canada": "Canada"
+      }
+    },
+    "notFoundPage": {
+      "code": "404",
+      "title": "Page Not Found",
+      "description": "Sorry, we couldn't find the page you're looking for.",
+      "backToHome": "Back to Home"
+    }
+  },
+  "metadata": {
+    "title": "Tailwind Store",
+    "description": "Tailwind Store is a productivity e-commerce built with Next.js, TypeScript, and TailwindCSS. It features a complete shopping flow, authentication, advanced filters, and multi-language and multi-currency support.",
+    "keywords": [
+      "TailwindStore",
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "e-commerce",
+      "online store",
+      "productivity",
+      "self-development",
+      "desk and office",
+      "travel",
+      "shadcn",
+      "react-hook-form",
+      "zod",
+      "next-intl",
+      "checkout",
+      "cart",
+      "login",
+      "multilingual",
+      "responsive",
+      "frontend",
+      "portfolio"
+    ],
+    "favicon": "/favicon.ico",
+    "openGraph": {
+      "title": "Tailwind Store",
+      "description": "Tailwind Store is a productivity e-commerce with a complete shopping flow, advanced filters, and multi-language & multi-currency support.",
+      "type": "website",
+      "url": "link-do-deploy",
+      "image": "/screenshots/og-image.png",
+      "locale": "en",
+      "site_name": "Tailwind Store"
+    }
+  }
+}
