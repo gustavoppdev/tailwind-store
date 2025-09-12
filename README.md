@@ -1,6 +1,6 @@
-# 🛍️ TailwindStore
+# 🛍️ Tailwind Store
 
-TailwindStore é um e-commerce de produtividade desenvolvido com **Next.js**, **TypeScript** e **TailwindCSS**, com foco em performance, responsividade e boas práticas.  
+Tailwind Store é um e-commerce de produtividade desenvolvido com **Next.js**, **TypeScript** e **TailwindCSS**, com foco em performance, responsividade e boas práticas.  
 O projeto simula uma loja real, com todo o fluxo de compra implementado: catálogo, carrinho, checkout, pedidos e autenticação.
 
 Este projeto foi criado com o objetivo de praticar habilidades de desenvolvimento frontend, recriando e adaptando um [exemplo oficial](https://tailwindcss.com/plus/ui-blocks/ecommerce/page-examples/storefront-pages) do Tailwind UI com toques pessoais e foco em boas práticas.
@@ -12,8 +12,6 @@ Este projeto foi criado com o objetivo de praticar habilidades de desenvolviment
 - [🛠️ Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [🖼️ Screenshots](#-screenshots)
 - [📦 Instalação e uso](#-instalação-e-uso)
-- [📂 Estrutura do Projeto](#-estrutura-do-projeto)
-- [📄 Licença](#-licença)
 
 ## 🚀 Deploy
 
@@ -80,13 +78,13 @@ Este projeto foi criado com o objetivo de praticar habilidades de desenvolviment
 Clone o repositório:
 
 ```
-git clone [https://github.com/](https://github.com/)<seu-usuario>/<nome-do-repositorio>.git
+git clone [git@github.com:gustavoppdev/tailwind-store.git](https://github.com/gustavoppdev/tailwind-store.git)
 ```
 
 Instale as dependências:
 
 ```
-cd <nome-do-repositorio>
+cd tailwind-store
 npm install
 ```
 
